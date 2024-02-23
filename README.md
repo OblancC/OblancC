@@ -15,7 +15,7 @@
  <img height="185em" "m" src="https://github-readme-stats.vercel.app/api?username=OblancC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OblancC&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+ 
 # Linguagem Utilizada:<br>
 
 <div style="display: inline_blocks"><br>
@@ -27,4 +27,6 @@
 
 </div>
 
-
+<script>
+ console.log("teste");
+</script>

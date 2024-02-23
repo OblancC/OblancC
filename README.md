@@ -26,7 +26,3 @@
           
 
 </div>
-
-<script type="text/javascript">
- console.log("teste");
-</script>

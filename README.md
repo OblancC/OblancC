@@ -21,8 +21,11 @@
 <div style="display: inline_blocks"><br>
             <img align="center" alt="Oblanc-C" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
             <img align="center" alt="Oblanc-JS" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img align="center" alt="Oblanc-JS" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
             <img align="center" alt="Oblanc-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
             <img align="center" alt="Oblanc-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+          
           
 
 </div>
